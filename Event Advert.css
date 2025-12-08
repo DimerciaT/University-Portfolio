@@ -1,0 +1,116 @@
+body {
+            font-family: Arial, sans-serif;
+        }
+
+
+        .head{
+                color:pink
+        }
+
+
+        .h1{
+            text-align: center;
+            font-family: georgia;
+            color: seashell;
+            font-size: 50px;
+            margin-bottom: 15px;
+            
+
+    }
+
+        .top{
+background-color: black;
+
+        }
+
+       .btn {
+    background: white;
+    border: solid 2px #ff8c00;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 2px;
+        cursor: pointer;
+    font-weight: 750;
+    transition: 0.3s;
+}
+.btn:hover {
+    background: #ff8c00;
+    color: white;
+}
+.btn a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+        #container {
+            height: 80px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+
+        #deals{
+            background-color:#ff8c00;
+            opacity: 0.9;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 15px;
+        }
+
+
+        
+
+        .insta a {
+    text-decoration:dotted underline;
+    color: orangered;
+}
+
+    .img{
+        float: left;
+        height: 225px;
+        display: block;
+        margin-left: auto;
+        margin-right: 200px;
+        }
+
+        .pic{
+        float: right;
+        height: 225px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        }
+
+.footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+        #deals h3 {
+    color: black;
+font-family: monospace;
+            font-size: 20px;
+            text-align: center;
+            margin-bottom: 15px;
+            text-decoration: wavy underline;
+        }
+
+#deals .p {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    font-family:cursive;
+    text-align: center;
+        }
+
+        
+
