@@ -3,7 +3,7 @@
 Welcome to my University Portfolio! This repository showcases my academic journey, technical skills, and projects as I work toward studying Computer Science at university and becoming a software developer.
 
 ## 👧 About Me
-Hi! I'm Dimercia, a Grade 11 learner from Cape Town, South Africa. I'm passionate about coding, problem‑solving, and building creative digital solutions. My subjects include:
+Hi! I'm Dimercia, a Grade 12 learner from Cape Town, South Africa. I'm passionate about coding, problem‑solving, and building creative digital solutions. My subjects include:
 
 🍀 Life Sciences,
 ➕ Mathematics,
