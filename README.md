@@ -68,4 +68,4 @@ Hi! I'm Dimercia, a Grade 11 learner from Cape Town, South Africa. I'm passionat
 
 Thank you for viewing my portfolio. I’m excited to continue growing, learning, and building my future in technology!
 Feel free to reach out:
-Email: youremail@example.com
+Email: tshiamaladimercia0@gmail.com
