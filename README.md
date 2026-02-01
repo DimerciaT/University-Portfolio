@@ -19,7 +19,7 @@ Hi! I'm Dimercia, a Grade 12 learner from Cape Town, South Africa. I'm passionat
 
 ### 💻 Technical Skills
 
-* Programming: HTML, CSS, Python
+* Programming: HTML, CSS
 
 * Software: Microsoft Word, Excel, Access, Database
 
