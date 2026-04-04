@@ -60,7 +60,7 @@ Hi! I'm Dimercia, a Grade 12 learner from Cape Town, South Africa. I'm passionat
 
 ### Long‑Term Goals
 
-* Study Computer Science at a top South African university
+* Study Computer Science or Information Systems at a top South African university
 
 * Become a software developer
 
